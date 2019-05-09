@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerInAndroid</string>
+
+    <string-array name="sports_names">
+        <item>Football</item>
+        <item>Boxing</item>
+        <item>Judo</item>
+    </string-array>
+</resources>
